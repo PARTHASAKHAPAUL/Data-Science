@@ -18,3 +18,11 @@
 8. Find the minimum of 3 and 4 numbers using conditional expressions and nested conditionals.
 9. Perform various operations on a list of departments at IIT Madras.
 10. Explain the differences between deep copy and shallow copy.
+
+## Lab: 3(Part-1)
+1. Write a program to manage a library catalog with functionalities to add, delete, sort, and remove duplicates based on specific criteria.
+2. Use list comprehension to add, multiply elements of two lists, and extract unique characters from a string.
+3. Utilize the zip function to add and multiply elements of two matrices.
+4. Implement operations on a square matrix to calculate row/column sums, trace, transpose, symmetry check, and positive definiteness of the identity matrix.
+5. Write a program to filter sublists within a list of lists based on a specified numerical range.
+
