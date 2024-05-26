@@ -25,4 +25,12 @@
 3. Utilize the zip function to add and multiply elements of two matrices.
 4. Implement operations on a square matrix to calculate row/column sums, trace, transpose, symmetry check, and positive definiteness of the identity matrix.
 5. Write a program to filter sublists within a list of lists based on a specified numerical range.
+## Lab: 3(Part-2)
+6. Given two lists of equal length (list1 with integers, list2 with alphabets), use list comprehension to generate: a) list of squares from list1, b) list of tuples pairing corresponding elements, c) list of all possible combinations, d) list of alternating elements.
+7. Identify and list the methods that are applicable to lists but not tuples.
+8. Write a code snippet that takes a string input and returns a tuple of tuples, each containing a character from the string and its ASCII value.
+9. Create a program to filter a list of tuples, retaining only those whose first element (student name) starts with a vowel.
+10. Create a set of numbers between 1 and 20 that are divisible by 3 or 5 using set comprehension.
+11. Explain what a frozenset is and provide examples.
+
 
