@@ -33,4 +33,14 @@
 10. Create a set of numbers between 1 and 20 that are divisible by 3 or 5 using set comprehension.
 11. Explain what a frozenset is and provide examples.
 
+## Lab: 4(Part-1)
+1. Explore the use and syntax of common built-in functions: range(), iter(), eval(), enumerate(), zip(), lambda, input(), map(), filter(), next(), reduce(), including descriptions and practical code examples.
+2. Write a Python function to sort a dictionary based on the length of its values.
+3. Develop a Python program that prompts the user for a string and performs the following tasks: a) creates a frequency dictionary of characters, b) sorts dictionary by frequency, c) sorts dictionary by characters, d) identifies the three most frequently occurring characters.
+4. Write a function `lookup_student` to search for a student's roll number in a dictionary and return it if found, otherwise return "Not Found".
+5. Given a list of integers, write a Python program to: a) find the frequency of each integer and store it in a dictionary, b) print the maximum integer and its frequency, c) remove duplicates without changing order without using a set, d) remove duplicates using a set.
+## Lab: 4(Part-2)
+
+
+
 
