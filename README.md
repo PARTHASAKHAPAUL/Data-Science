@@ -40,6 +40,13 @@
 4. Write a function `lookup_student` to search for a student's roll number in a dictionary and return it if found, otherwise return "Not Found".
 5. Given a list of integers, write a Python program to: a) find the frequency of each integer and store it in a dictionary, b) print the maximum integer and its frequency, c) remove duplicates without changing order without using a set, d) remove duplicates using a set.
 ## Lab: 4(Part-2)
+6. Store employee details in nested dictionaries and: a) sort by salary, b) add a new employee in the correct sorted position.
+7. Create a function to combine two dictionaries, summing values for common keys.
+8. Write a function to convert a list of lists (each containing a key and value) into a list of dictionaries.
+9. Illustrate the usage of positional and keyword arguments with examples.
+10. Write a function to find the maximum of n numbers using variable length positional arguments.
+11. Write a function to concatenate n strings using variable length keyword arguments.
+
 
 
 
