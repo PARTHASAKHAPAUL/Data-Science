@@ -203,3 +203,20 @@
     - Plot the K classes for the final K-value obtained from the cost function.
 
 ## Lab: 13(Part-2)
+3. **Labeling and Splitting Data:**
+    - Take any two classes from the generated data and add labels to them (0 or 1).
+    - Create a new CSV file with the labeled data.
+    - Split the labeled data into a training set (70%) and a test set (30%).
+
+    (a) **Plot Decision Boundary using Logistic Regression:**
+        - Utilize the developed logistic regression code (with or without regularization) from a previous lab.
+        - Plot the decision boundary using the logistic regression model trained on the training data.
+
+    (b) **Evaluate Performance Metrics:**
+        - Evaluate the following metrics on the test data without using any library:
+            - Precision
+            - Recall
+            - F1-Score
+            - Accuracy
+
+
