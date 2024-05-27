@@ -247,4 +247,34 @@ Implement the forward propagation for a two hidden layer network for m-samples a
 
 
 ## Lab: 14(Part-2)
+Implement a neural network for m-samples, n-features with forward propagation (FP) and backward propagation (BP). Train the network with 70% of the data, validate with 15%, and test with the remaining 15%. Report evaluation metrics for varying numbers of layers in the network and plot the training loss curves.
 
+### Steps:
+
+1. **Split Data:**
+    - Split the data into training, validation, and testing sets with a ratio of 70:15:15.
+
+2. **Initialize Weights and Biases:**
+    - Randomly initialize weights and biases for each layer in the neural network.
+
+3. **Forward Propagation (FP):**
+    - Implement forward propagation to calculate the output of the neural network.
+
+4. **Backward Propagation (BP):**
+    - Implement backward propagation to update weights and biases using gradient descent.
+
+5. **Train the Network:**
+    - Train the neural network using the training data.
+    - Use the validation set to monitor the performance during training and prevent overfitting.
+
+6. **Evaluate the Network:**
+    - Test the trained network using the testing data.
+    - Report evaluation metrics such as accuracy, precision, recall, F1-score, and loss for varying numbers of layers in the network.
+
+7. **Plot Training Loss Curves:**
+    - Plot the training loss curves for different numbers of layers in the network to visualize the training progress.
+
+### Additional Notes:
+- Choose appropriate hyperparameters such as the number of layers, learning rate, batch size, etc.
+- Utilize suitable activation functions (e.g., sigmoid, ReLU, tanh) for the hidden layers and softmax for the output layer for classification tasks.
+- Experiment with different architectures and hyperparameters to find the optimal configuration for your dataset.
