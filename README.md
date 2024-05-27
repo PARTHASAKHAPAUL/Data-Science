@@ -190,3 +190,16 @@
     - Compare the results obtained with the results available in the provided [link](https://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_3d.html#sphx-glr-auto-examples-decomposition-plot-pca-3d-py).
 
 
+## Lab: 13(Part-1)
+1. **Generate Data and Write to CSV:**
+    - Generate 10 random points in each of the three circles specified.
+    - Write the generated data to a CSV file.
+    - Plot the generated data.
+
+2. **Implement K-Means Clustering Algorithm:**
+    - Implement the K-Means clustering algorithm without using the sklearn library.
+    - Show the change in centroids and class assignments during the iterations.
+    - Plot the cost function for K varying from 1 to 5 to determine the optimal number of clusters.
+    - Plot the K classes for the final K-value obtained from the cost function.
+
+## Lab: 13(Part-2)
