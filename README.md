@@ -103,6 +103,24 @@
 10. **Create a pandas DataFrame with a list of words, sort them in ascending order, and copy the sorted words to a new file.**
 
 
+## Lab: 7(Part-1)
+1. **Write a program that takes coefficients A, B, C, D, and E as inputs representing a 4th degree polynomial in the form Ax^4 + Bx^3 + Cx^2 + Dx + E, calculate the values of this polynomial for x in the range from -100 to 100 with constant discrete intervals, store the resulting x and y values as a NumPy array, and use Matplotlib to plot the graph using the generated NumPy array.**
+
+2. **Given a dictionary containing information about monthly sales for different products over a period of time, convert this dictionary into a pandas DataFrame, calculate the total sales for each product over the entire period, and create a bar plot using Matplotlib to visualize the total sales for each product.**
+
+3. **Create visualizations for the following mathematical functions using Matplotlib:**
+
+   **(a) Plot the single-variable functions over the range [-10,10] with a title and labels for the axes:**
+   - **y = cos(x)**
+   - **y = e^x**
+   - **y = log(x), where x>0**
+
+   **(b) Generate surface plots for the multi-variable functions over the range x=[-10,10] and y=[-10,10], ensuring to add a title and labels for all axes:**
+   - **z = cos(sqrt(x^2 + y^2))**
+   - **z = e^(-(x^2 + y^2))**
+   - **z = log(x^2 + y^2) where x^2 + y^2 > 0**
+
+4. **For the function J(w) = w^2 + (54/w), implement the bracketing method (choose your own a, b, n).**
 
 
 
