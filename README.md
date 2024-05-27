@@ -123,6 +123,21 @@
 4. **For the function J(w) = w^2 + (54/w), implement the bracketing method (choose your own a, b, n).**
 
 
+## Lab: 7(Part-2)
+5. **Write a program to plot a 3D graph of the helical wave signal using the scatter method and normal line method separately, and specify legends for each.**
+
+6. **Given a dictionary of dictionaries representing countries, create a DataFrame using Pandas.**
+
+7. **Create a DataFrame using Pandas from a string containing tabular data.**
+
+8. **Given an N x M integer array matrix with space-separated elements (N = rows, M = columns), print the transpose and flatten results using NumPy.**
+
+9. **Write a program to capitalize a column of names in a Pandas DataFrame.**
+
+10. **Use the central difference method to find the first and second-order derivatives of the function \( f(x) = 3x^2 + 2x \). Verify the result manually and write it on paper for comparison.**
+
+
+
 
 
 
