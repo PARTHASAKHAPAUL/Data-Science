@@ -137,6 +137,12 @@
 10. **Use the central difference method to find the first and second-order derivatives of the function \( f(x) = 3x^2 + 2x \). Verify the result manually and write it on paper for comparison.**
 
 
+## Lab: 8
+1. **Implement methods to find the critical point of the function \( J(w) = w^2 + \frac{54}{w} \) using (a) interval halving method and (b) Newton-Raphson method. Verify the result manually using the optimality criteria. Post the write-up as an image.**
+
+2. **Plot the surface \( J(w_1, w_2) = (w_1 - 10)^2 + (w_2 - 10)^2 \) and generate the corresponding contour plot. Label the plots appropriately and provide a suitable title for the figure.**
+
+3. **Using line search along the direction (2, 5) for the function \( (w_1 - 10)^2 + (w_2 - 10)^2 \), find the minimum value starting from the point (2, 1). Plot the function and its contours along with the minimum value in that direction.**
 
 
 
