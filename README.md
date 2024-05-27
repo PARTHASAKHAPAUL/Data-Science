@@ -171,3 +171,6 @@
 3. **Utilize your own data for a single feature problem, considering it as a linear regression problem. Plot the cost function and its contours. Additionally, use cross entropy as the cost function and plot it along with its contours.**
 
 
+## Lab: 11(Part-2)
+4. **Implement logistic regression using the data provided in "Logistic_regression_ls.csv". Plot the decision boundary (linear) using optimization of the sigmoid function.**
+
