@@ -144,6 +144,15 @@
 
 3. **Using line search along the direction (2, 5) for the function \( (w_1 - 10)^2 + (w_2 - 10)^2 \), find the minimum value starting from the point (2, 1). Plot the function and its contours along with the minimum value in that direction.**
 
+## Lab: 9
+1. **Comment on whether the search direction in the last week's lab question is a gradient descent one.**
+
+2. **Using steepest gradient descent, find all the local minima for the function \( J(x_1, x_2) = (x_1^2 + x_2 - 11)^2 + (x_1 + x_2^2 - 7)^2 \). Perform the following steps:**
+    - **(a) Fix the value for alpha**
+    - **(b) Use line search to determine the value for alpha.**
+    - **Plot the intermediate steps in the iteration to show one of the minimal points.**
+
+**Note:** *Plan your coding to enable reusability (use classes/functions). The code developed can be used for solving future problems, especially in ML, where both multivariable and single-variable optimization are significant.*
 
 
 
