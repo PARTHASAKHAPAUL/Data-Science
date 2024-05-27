@@ -174,3 +174,19 @@
 ## Lab: 11(Part-2)
 4. **Implement logistic regression using the data provided in "Logistic_regression_ls.csv". Plot the decision boundary (linear) using optimization of the sigmoid function.**
 
+
+## Lab: 12
+1. **Support Vector Machine (SVM):**
+    - Load the iris dataset and the digits dataset [find details from this link](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html).
+    - Visualize the data for both datasets.
+    - Split the data into training and testing sets.
+    - Initialize and train the SVM model for classifying iris flowers based on sepal length and width, and for classifying handwritten digits.
+    - Test the model and evaluate its performance.
+    
+2. **Principal Component Analysis (PCA):**
+    - Use Eigen decomposition available in numpy to perform PCA.
+    - Load the dataset provided in the [link](https://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_3d.html#sphx-glr-auto-examples-decomposition-plot-pca-3d-py).
+    - Implement PCA using numpy.
+    - Compare the results obtained with the results available in the provided [link](https://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_3d.html#sphx-glr-auto-examples-decomposition-plot-pca-3d-py).
+
+
