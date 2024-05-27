@@ -47,6 +47,27 @@
 10. Write a function to find the maximum of n numbers using variable length positional arguments.
 11. Write a function to concatenate n strings using variable length keyword arguments.
 
+## Lab: 5(Part-1)
+1. **Write a program using loops and recursion:**
+    - Factorial of n where n is a non-negative integer.
+    - For calculating the Nth Fibonacci number.
+    - To calculate a^b where a > 0, b >= 0.
+
+2. **Query for 2 integers N and M from the user where 0 <= N <= 100 and 0 <= M <= 9. These will be the inputs to your function. Using recursion, compute the number of times the integer M occurs in all non-negative integers less than or equal to N.**
+    - Example: For N=13 and M=1, count=6 (numbers 1,10,11,12,13).
+
+3. **Programs using lambda functions:**
+    - Given a list of names, use `map` to create a list where each name is prefixed with "Hello, ".
+        - Example Input: `['Alice', 'Bob', 'Charlie']`
+        - Example Output: `['Hello, Alice', 'Hello, Bob', 'Hello, Charlie']`
+    - Use `filter` and a lambda function to extract all even numbers from a given list.
+        - Example Input: `[1, 2, 3, 4, 5, 6]`
+        - Example Output: `[2, 4, 6]`
+    - Use `reduce` and lambda to concatenate all strings in a given list.
+        - Example Input: `['Python', 'is', 'awesome']`
+        - Example Output: `'Pythonisawesome'`
+
+4. **Define a class `Complex` that defines a complex number with attributes real and imaginary. Define operators for addition, subtraction, multiplication, and division (Do with both operator overloading as well as without overloading). While printing the output, print in the form of complex number form like (a + ib).**
 
 
 
