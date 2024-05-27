@@ -162,3 +162,12 @@
 
 3. **Using the code developed for problem 1, conduct linear regression for the multivariate problem using the provided data file "heart.data.csv". Plot the best fit plane for the given data. Additionally, interpret the result by considering one independent variable at a time.**
 
+
+## Lab: 11(Part-1)
+1. **Plot the sigmoid function. Provide an interpretation of why this function is useful for a classification problem.**
+
+2. **Plot the log functions in the cost function individually. Offer an interpretation of the log functions.**
+
+3. **Utilize your own data for a single feature problem, considering it as a linear regression problem. Plot the cost function and its contours. Additionally, use cross entropy as the cost function and plot it along with its contours.**
+
+
