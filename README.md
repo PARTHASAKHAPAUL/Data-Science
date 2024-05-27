@@ -155,4 +155,10 @@
 **Note:** *Plan your coding to enable reusability (use classes/functions). The code developed can be used for solving future problems, especially in ML, where both multivariable and single-variable optimization are significant.*
 
 
+## Lab: 10
+1. **Implement the generalized equation for finding the gradient of m-samples, each having n-features. Additionally, implement the gradient descent approach with a constant learning rate.**
+
+2. **Using the code developed for problem 1, perform linear regression for the univariate problem using the provided data file "univariate_linear_regression.csv". Plot the cost function (both as surface and contour) as well as the best fit line.**
+
+3. **Using the code developed for problem 1, conduct linear regression for the multivariate problem using the provided data file "heart.data.csv". Plot the best fit plane for the given data. Additionally, interpret the result by considering one independent variable at a time.**
 
