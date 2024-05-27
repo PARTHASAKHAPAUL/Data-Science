@@ -91,6 +91,16 @@
 5. **Modify the previous restaurant bill program to take customer name, table number, and order details from a file, and the price list from another file, and print the complete bill to a new file.**
 
 
+## Lab: 6(Part-2)
+6. **Create a base class `Vehicle` with attributes `make`, `model`, `year`, and methods to initialize and display these attributes; create a `Car` class with an additional attribute `fuel_type` and a `Bike` class with an additional attribute `gear_count`, each with methods to initialize and display these attributes, and demonstrate the methods with objects of `Car` and `Bike`.**
+
+7. **Create a `Student` class to manage student data with instance attributes `name`, `age`, `grade`, and `class_schedule`, and class variables `school_name`, `total_students`, and `number_of_classes`; demonstrate the use of class variables with an example program.**
+
+8. **Create a `Numbers` class with attributes `a`, `b`, and methods `find_gcd()` and `find_lcm()`, and derived classes `EvenNumbers`, `OddNumbers`, and `CompositeNumbers` that override these methods appropriately; create an object of `CompositeNumbers` and demonstrate the methods.**
+
+9. **Create a Python script to manage a library's book collection by reading from and writing to a CSV file, with functionalities to add new books and list all books currently stored in the file.**
+
+10. **Create a pandas DataFrame with a list of words, sort them in ascending order, and copy the sorted words to a new file.**
 
 
 
