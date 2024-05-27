@@ -220,3 +220,31 @@
             - Accuracy
 
 
+
+## Lab: 14(Part-1)
+Implement the forward propagation for a two hidden layer network for m-samples and n-features. Initialize the weights randomly. Use the data from previous labs like logistic regression. Choose the number of neurons in the hidden layers and use the sigmoid activation function. Report the evaluation metrics for the network. Also, use other non-linear activation functions like ReLU and Tanh. Report the loss using both Mean Squared Error (MSE) and Cross Entropy.
+
+### Steps:
+
+1. **Initialize Weights:**
+    - Randomly initialize weights for each layer in the neural network.
+
+2. **Forward Propagation:**
+    - Implement forward propagation for the neural network with two hidden layers.
+    - Use sigmoid activation function for the hidden layers.
+    - Calculate the output of the network.
+
+3. **Evaluation Metrics:**
+    - Report evaluation metrics such as accuracy, precision, recall, F1-score, and loss using both MSE and Cross Entropy.
+
+4. **Use Other Activation Functions:**
+    - Implement forward propagation using other non-linear activation functions like ReLU and Tanh.
+    - Compare the performance of the network with different activation functions.
+
+### Additional Notes:
+- Utilize the data from previous labs like logistic regression for training and testing the neural network.
+- Choose suitable hyperparameters such as the number of neurons in the hidden layers.
+
+
+## Lab: 14(Part-2)
+
