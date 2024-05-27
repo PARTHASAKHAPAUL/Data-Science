@@ -79,6 +79,17 @@
 8. **Create a class named `Geometry` that provides static methods for various geometric calculations like area and perimeter for shapes such as circles, rectangles, and squares, ensuring valid input checks.**
 
 
+## Lab: 6(Part-1)
+1. **Design a class named `Polygon` that initializes with the length of a side and derive a class named `Square` from the `Polygon` class, implementing a method `findArea()` to calculate and return the square's area.**
+
+2. **Create a class `Father` with attributes `father_name`, `father_age`, `father_talents`, and a class `Mother` with attributes `mother_name`, `mother_age`, `mother_talents`; create a class `Child` inheriting both, with attributes `child_name`, `child_age`, `child_gender`, and methods to get and print details, and display talents inherited from both parents.**
+
+3. **Create a text file with the pledge of India, write a Python program to read and count the occurrences of each word, and write the result to a new text file.**
+
+4. **Create a parent class `Bill` with properties `Customer name`, `Table Number`, and `Order`; create a child class `Restaurant Bill` with a `Price list` property, methods to calculate total bill amount and print the complete bill including taxes and service charges.**
+
+5. **Modify the previous restaurant bill program to take customer name, table number, and order details from a file, and the price list from another file, and print the complete bill to a new file.**
+
 
 
 
