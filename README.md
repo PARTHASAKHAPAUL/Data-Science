@@ -69,6 +69,21 @@
 
 4. **Define a class `Complex` that defines a complex number with attributes real and imaginary. Define operators for addition, subtraction, multiplication, and division (Do with both operator overloading as well as without overloading). While printing the output, print in the form of complex number form like (a + ib).**
 
+## Lab: 5(Part-2)
+5. **WAP to implement a class called "Bank_Account" representing a person's bank account with attributes account_holder_name, account_number, address, and balance, and methods for deposit, withdraw, check_balance, update_details, and display_details.**
+
+6. **Define a `Matrix` class of dimensions m X n with methods for matrix addition, subtraction, multiplication, element-by-element multiplication, scalar multiplication (using map), and use operator overloading where possible.**
+
+7. **Create a Python class named `Time` that represents a moment of time with attributes hour, minute, and second, and methods including a constructor with validation, `__str__()` method, `set_time()`, `get_time()`, and `add_seconds()`.**
+
+8. **Create a class named `Geometry` that provides static methods for various geometric calculations like area and perimeter for shapes such as circles, rectangles, and squares, ensuring valid input checks.**
+
+
+
+
+
+
+
 
 
 
