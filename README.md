@@ -158,9 +158,9 @@
 ## Lab: 10
 1. **Implement the generalized equation for finding the gradient of m-samples, each having n-features. Additionally, implement the gradient descent approach with a constant learning rate.**
 
-2. **Using the code developed for problem 1, perform linear regression for the univariate problem using the provided data file "univariate_linear_regression.csv". Plot the cost function (both as surface and contour) as well as the best fit line.**
+2. **Using the code developed for problem 1, perform linear regression for the univariate problem using the provided data file ["univariate_linear_regression.csv"](https://github.com/PARTHASAKHAPAUL/Data-Science/blob/main/univariate_linear_regression.csv). Plot the cost function (both as surface and contour) as well as the best fit line.**
 
-3. **Using the code developed for problem 1, conduct linear regression for the multivariate problem using the provided data file "heart.data.csv". Plot the best fit plane for the given data. Additionally, interpret the result by considering one independent variable at a time.**
+3. **Using the code developed for problem 1, conduct linear regression for the multivariate problem using the provided data file ["heart.data.csv"](https://github.com/PARTHASAKHAPAUL/Data-Science/blob/main/heart.data.csv). Plot the best fit plane for the given data. Additionally, interpret the result by considering one independent variable at a time.**
 
 
 ## Lab: 11(Part-1)
@@ -172,7 +172,7 @@
 
 
 ## Lab: 11(Part-2)
-4. **Implement logistic regression using the data provided in "Logistic_regression_ls.csv". Plot the decision boundary (linear) using optimization of the sigmoid function.**
+4. **Implement logistic regression using the data provided in ["Logistic_regression_ls.csv"](https://github.com/PARTHASAKHAPAUL/Data-Science/blob/main/Logistic_regression_ls.csv). Plot the decision boundary (linear) using optimization of the sigmoid function.**
 
 
 ## Lab: 12
